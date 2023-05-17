@@ -88,7 +88,7 @@ document.body.appendChild(chat)
 // "http://localhost:3000/chatbot/${scriptTag.id}"
 // "https://www.supportguy.co/chatbot/${scriptTag.id}"
 chat.innerHTML = `<iframe
-src=""https://www.supportguy.co/chatbot/${scriptTag.id}"
+src="https://www.supportguy.co/chatbot/${scriptTag.id}"
 width="100%"
 height="100%"
 frameborder="0"
